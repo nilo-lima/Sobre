@@ -1,6 +1,6 @@
 # Minha Jornada na Transformação Tecnológica: Um Relato Pessoal
 
-Há mais de 30 anos, dei os primeiros passos em uma aventura fascinante na esfera da tecnologia corporativa. Desde então, tenho navegado pelas marés da implantação de sistemas, administração de bancos de dados, infraestrutura corporativa, busca por inovações e melhoria de processos. Essa jornada me levou a explorar terrenos extraordinários.
+Há mais de 30 anos, dei os primeiros passos em uma aventura fascinante na esfera da tecnologia. Desde então, tenho navegado pelas marés da implantação de sistemas, administração de bancos de dados, infraestrutura corporativa, busca por inovações e melhoria de processos. Essa jornada me levou a explorar terrenos extraordinários.
 
 ## Implantações de Sistemas e Migrações de Bancos de Dados
 
